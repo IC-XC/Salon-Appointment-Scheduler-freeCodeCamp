@@ -1,2 +1,2 @@
-# Salon-Appointment-Scheduler-freeCodeCamp
-Relational Database - Salon Appointment Scheduler
+# 📖 Salon-Appointment-Scheduler-freeCodeCamp
+# 👣 Relational Database - Salon Appointment Scheduler
